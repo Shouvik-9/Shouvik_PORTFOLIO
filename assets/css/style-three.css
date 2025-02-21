@@ -4,9 +4,9 @@
 :root {
   --primary: #ff29e4;
   --primary-hover: #e01dc8;
-  --dark-primary: #4f1652;
-  --dark-secondary: #753980;
-  --text-color: #c4c4c4;
+  --dark-primary: #000;
+  --dark-secondary: #2a262d;
+  --text-color:#c4c4c4;
 }
 
 * {
